@@ -1,0 +1,15 @@
+Improvment Ideas
+
+CODE
+-clean up classes
+-convert cats and outCats to arrays
+-make those arrays dynamic and declare a global constant variable of the number of categories
+-convert the switches to recursive while loops that iterate through n categories
+-read from excel, not just CSV
+-generate categories by column headers
+-category variables global
+-standardze or overload function order (head,category) or (category,head)
+
+USER
+-dashboard GUI control
+-output visual graphs along with analysis
